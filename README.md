@@ -1,6 +1,4 @@
-# THIS REPOSITORY IS DEPRECATED
 
-> Note: We are concentrating our efforts on supporting webpack and rollup.
 
 ## vueify [![Build Status](https://circleci.com/gh/vuejs/vueify.svg?style=shield)](https://circleci.com/gh/vuejs/vueify) [![npm version](https://badge.fury.io/js/vueify.svg)](http://badge.fury.io/js/vueify)
 
